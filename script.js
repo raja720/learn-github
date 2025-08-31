@@ -5,3 +5,7 @@ console.log("i am grater")
 }else{
     console.log("i am not grater than number;")
 }
+
+function(){
+    console.log("hello")
+}
