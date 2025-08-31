@@ -6,6 +6,6 @@ console.log("i am grater")
     console.log("i am not grater than number;")
 }
 
-function(){
+function add(){
     console.log("hello")
 }
